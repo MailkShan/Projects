@@ -1,2 +1,2 @@
 # Projects
-My front-end projects
+My front-end projects.
